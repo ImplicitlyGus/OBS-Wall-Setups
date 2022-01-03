@@ -1,6 +1,6 @@
 # Wall OBS Setup
 
-A drag-and-drop solution to easily setup OBS for use with Specnr's wall macro scripts
+A drag-and-drop solution to setup OBS for use with Specnr's (and potentially other) various wall macro scripts - made by Feinberg.
 
 # Usage
 
