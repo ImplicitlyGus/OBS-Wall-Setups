@@ -4,7 +4,7 @@ A drag-and-drop solution to setup OBS for use with Specnr's (and potentially oth
 
 # Usage
 
-Download either the **SixInstances** or **NineInstances** folder, depending on how many instances you are using for your wall. Six is recommended if you have 16GB RAM (or less) and/or have a lower-end CPU (almost anything Intel or lower-end AMD CPUs).
+Download either the **SixInstances** or **NineInstances** folder, depending on how many instances you are using for your wall (more instance # customizations will be added later). Six is recommended if you have 16GB RAM (or less) and/or have a lower-end CPU (almost anything Intel or lower-end AMD CPUs), use nine if your specs are high-end.
 
 Navigate to your OBS scene folder in AppData - for me this is `C:/Users/Feinberg/AppData/Roaming/obs-studio/basic/scenes/` (replace Feinberg with your PC's username). Alternatively you can press `Windows + R`, then type `%appdata%/obs-studio/basic/scenes` which looks like this: 
 
