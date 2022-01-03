@@ -10,8 +10,7 @@ Navigate to your OBS scene folder in AppData - for me this is `C:/Users/Feinberg
 
 Then, drag and drop the two files in whichever folder you downloaded (a .json and .bak) into the scenes folder. Restart your OBS, then navigate to the Scene Collection button in the top left, as shown: ![obspic1](https://user-images.githubusercontent.com/97056124/147978847-41673bce-983b-46a9-8363-0c95db489e03.png)
 
-Now all of our scenes are setup correctly for using the wall - including the default keybinds used with Specnr's macro `(Numpad 1-9, F12)`. Here is what your scenes will look like:
-![obsscenes](https://user-images.githubusercontent.com/97056124/147979054-6ea510bc-1ce6-4409-bb51-0fc56a04420d.png)
+Now all of our scenes are setup correctly for using the wall - including the default keybinds used with Specnr's macro `(Numpad 1-9, F12)`. Here is what your scenes will look like: ![obsscenes](https://user-images.githubusercontent.com/97056124/147979054-6ea510bc-1ce6-4409-bb51-0fc56a04420d.png)
 
 The only thing left to do is setup the **main overlay scene** with all of your personal overlay items - chatbox, alertbox, webcam, audio devices, etc. The main overlay scene is present as a source in every other scene (except for the wall scene), so any changes you make to the main overlay scene will be apparent in every Minecraft instance that you play. If you already have a scene with these items from a different scene collection, I recommend downloading the [OBS Source Copy](https://obsproject.com/forum/resources/source-copy.1261/) plugin to copy and paste your scene from your old scene collection to the wall scene collection.
 
