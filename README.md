@@ -6,7 +6,7 @@ A drag-and-drop solution to easily setup OBS for use with Specnr's wall macro sc
 
 Download either the **SixInstances** or **NineInstances** folder, depending on how many instances you are using for your wall. Six is recommended if you have 16GB RAM (or less) and/or have a lower-end CPU (almost anything Intel or lower-end AMD CPUs).
 
-Navigate to your OBS scene folder in AppData - for me this is `C:/Users/Feinberg/AppData/Roaming/obs-studio/basic/scenes/`, replace Feinberg with your PC's username. Alternatively you can press `Windows + R`, then type `%appdata%/obs-studio/basic/scenes` which looks like this: ![run](https://user-images.githubusercontent.com/97056124/147978024-5c2560f4-96f2-4912-ad3f-fb9fed10b81e.png)
+Navigate to your OBS scene folder in AppData - for me this is `C:/Users/Feinberg/AppData/Roaming/obs-studio/basic/scenes/` (replace Feinberg with your PC's username). Alternatively you can press `Windows + R`, then type `%appdata%/obs-studio/basic/scenes` which looks like this: ![run](https://user-images.githubusercontent.com/97056124/147978024-5c2560f4-96f2-4912-ad3f-fb9fed10b81e.png)
 
 Then, drag and drop the two files in whichever folder you downloaded (a .json and .bak) into the scenes folder. Restart your OBS, then navigate to the Scene Collection button in the top left, as shown: ![obspic1](https://user-images.githubusercontent.com/97056124/147978847-41673bce-983b-46a9-8363-0c95db489e03.png)
 
