@@ -1,6 +1,6 @@
 # Wall OBS Setup
 
-A drag-and-drop solution to setup OBS for use with Specnr's (and potentially other) various wall macro scripts - made by Feinberg. Has been tested and works best with Specnr's wall, downloadable here: [Wall Macro](https://github.com/Specnr/MultiResetWall).
+A drag-and-drop solution to setup OBS for use with Specnr's (and potentially other) various wall macro scripts - made by Feinberg. Has been tested and works best with Specnr's wall, downloadable here: [Wall Macro](https://github.com/Specnr/MultiResetWall). I'd recommend following his setup video until he gets to the part about OBS - and then follow this instead :)
 
 # Usage
 
