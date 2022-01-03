@@ -10,11 +10,11 @@ Navigate to your OBS scene folder in AppData - for me this is `C:/Users/Feinberg
 
 ![run](https://user-images.githubusercontent.com/97056124/147978024-5c2560f4-96f2-4912-ad3f-fb9fed10b81e.png)
 
-Then, drag and drop the two files in whichever folder you downloaded (a .json and .bak) into the scenes folder. Restart your OBS, then navigate to the Scene Collection button in the top left, as shown: 
+Then, drag and drop the two files in whichever folder you downloaded (a .json and .bak) into the scenes folder that you just opened. Restart your OBS, then navigate to the Scene Collection button in the top left, as shown: 
 
 ![obspic1](https://user-images.githubusercontent.com/97056124/147978847-41673bce-983b-46a9-8363-0c95db489e03.png)
 
-Now all of our scenes are setup correctly for using the wall - including the default keybinds used with Specnr's macro `(Numpad 1-9, F12)`. Here is what your scenes will look like: 
+You should see either **9 instance wall scene** or **6 instance wall scene** as an option in the list (it's second on the list for me). Now all of our scenes are setup correctly for using the wall - including the default keybinds used with Specnr's macro `(Numpad 1-9, F12)`. Here is what your scenes will look like: 
 
 ![obsscenes](https://user-images.githubusercontent.com/97056124/147979054-6ea510bc-1ce6-4409-bb51-0fc56a04420d.png)
 
