@@ -18,7 +18,7 @@ Now all of our scenes are setup correctly for using the wall - including the def
 
 ![obsscenes](https://user-images.githubusercontent.com/97056124/147979054-6ea510bc-1ce6-4409-bb51-0fc56a04420d.png)
 
-The only thing left to do is setup the **main overlay scene** with all of your personal overlay items - chatbox, alertbox, webcam, audio devices, etc. The main overlay scene is present as a source in every other scene (except for the wall scene), so any changes you make to the main overlay scene will be apparent in every Minecraft instance that you play. If you already have a scene with these items from a different scene collection, I recommend downloading the [OBS Source Copy](https://obsproject.com/forum/resources/source-copy.1261/) plugin to copy and paste your scene from your old scene collection to the wall scene collection.
+Now simply click on either **9 instance wall scene** or **6 instance wall scene** and you're set! The only thing left to do is setup the **main overlay scene** with all of your personal overlay items - chatbox, alertbox, webcam, audio devices, etc. The main overlay scene is present as a source in every other scene (except for the wall scene), so any changes you make to the main overlay scene will be apparent in every Minecraft instance that you play. If you already have a scene with these items from a different scene collection, I recommend downloading the [OBS Source Copy](https://obsproject.com/forum/resources/source-copy.1261/) plugin to copy and paste your scene from your old scene collection to the wall scene collection.
 
 # Source Recording
 
