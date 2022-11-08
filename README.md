@@ -37,6 +37,3 @@ Now, you'll have to configure the specific settings for the Source Record filter
 ![pog](https://user-images.githubusercontent.com/97056124/147980966-8269d1af-a24f-46c8-b38a-378ad9be5a41.png) 
 
 I'd recommend using the same settings that I use - although you will **need to change** the Path under Record to whatever folder/drive you want to save your verification recordings to (I save them in the same place that I save regular OBS recordings, but add "verification" at the end to distinguish between the two.
-
-Contact me on Discord with any questions - `Feinberg#0001` :D
-
